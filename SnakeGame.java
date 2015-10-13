@@ -1,4 +1,4 @@
-package day25;
+package day25;//ny Z
 
 import java.awt.Point;
 import java.util.LinkedList;
